@@ -1,6 +1,7 @@
 # -Shopping-Web-API-ASP.NET-Core-
 Mô tả dự án:
 Xây dựng hệ thống web bán hàng hỗ trợ người dùng đăng ký, đăng nhập, phân quyền (User/Admin), quản lý sản phẩm, giỏ hàng, đơn hàng và thanh toán. API được thiết kế theo mô hình RESTful, dễ mở rộng và tích hợp với frontend (React/Angular/Thymeleaf).
+
 Công nghệ sử dụng:
  - Ngôn ngữ: C# (.NET 8)
  - Framework: ASP.NET Core Web API, Entity Framework Core
@@ -8,6 +9,7 @@ Công nghệ sử dụng:
  - Authentication & Authorization: JWT + Role-based Authorization (User, Admin)
  - Công cụ hỗ trợ: Postman, Git, NuGet
  - Mô hình kiến trúc: Repository Pattern + Dependency Injection
+
 Chức năng chính:
  - Đăng ký, đăng nhập, xác thực người dùng bằng JWT
  - Phân quyền User/Admin xem và quản lý sản phẩm
