@@ -1,0 +1,6 @@
+@webbanhang_dinhductruonglong_HostAddress = http://localhost:5062
+
+GET {{webbanhang_dinhductruonglong_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
